@@ -4,11 +4,11 @@
 
 This repository has all files for STA 380 Assignment 1 for James Scott's class. Note there are some requirements when weaving the R-Sweave file.
 
-Sweave Requirements:
+Sweave Requirements:   
     - Set Global Options in RStudio to weave RNW files with knitr    
     - Typeset LaTeX into PDF using: XeLaTeX  
 
-R Package Requirements:
+R Package Requirements:   
     - knitr  
     - tidyverse  
     - foreach  
