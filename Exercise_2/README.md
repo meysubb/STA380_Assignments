@@ -13,12 +13,12 @@ R Package Requirements:
     - tidyverse    
     - grid
     - gridExtra  
-    - xtable
-    - maps
-    - ggmap  
-    - ggrepel  
-    - purrr  
-    - tm
-    - naivebayes
-    - randomForest
-    - arules
+    - xtable  
+    - maps  
+    - ggmap    
+    - ggrepel    
+    - purrr    
+    - tm   
+    - naivebayes  
+    - randomForest  
+    - arules  
