@@ -10,12 +10,15 @@ Sweave Requirements:
 
 R Package Requirements:   
     - knitr  
-    - tidyverse  
-    - foreach  
-    - moasic  
+    - tidyverse    
+    - grid
     - gridExtra  
-    - xtable  
-    - scales  
-    - quantmod  
-    - reshape2  
+    - xtable
+    - maps
+    - ggmap  
+    - ggrepel  
     - purrr  
+    - tm
+    - naivebayes
+    - randomForest
+    - arules
